@@ -17,8 +17,6 @@ int main(){
 
     int lenght = sizeof(cars)/sizeof(cars[0]);
 
-
-
     for (int i = 0; i < lenght; i++){
             printCar(cars[i]);
     }
