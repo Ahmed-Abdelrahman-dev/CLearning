@@ -52,13 +52,6 @@ int main(){
     }
 
 
-
-
-
-
-
-
-
     free(prices);
     prices = NULL;
 
